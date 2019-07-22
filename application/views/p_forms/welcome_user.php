@@ -12,7 +12,7 @@
           <div class="col-lg-6">
             <div class="alert alert-dismissible alert-danger">
               <?php echo"<pre>" ?>
-                <?php echo "welcome :)";?>
+                <?php echo "Welcome User:)";?>
             <?php print_r($error); ?>
           </div>
           </div>
